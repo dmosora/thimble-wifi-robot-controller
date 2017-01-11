@@ -1,5 +1,5 @@
 # thimble-wifi-robot-controller
-I'm just starting out learning Unity, and making robots with Thimble.io. So, here's a quick Unity sketch mocked up to control the WiFi robot built from the Thimble project kit. This was kind of hacked together over a couple of days, but I was able to chase the dog around with a phone-controlled robot so it was well worth it!
+I'm just starting out learning Unity, and getting some electronics experience with monthly Thimble kits. So, here's a quick Unity sketch mocked up to control the WiFi robot built from the Thimble project kit. This was kind of hacked together over a couple of days, but I was able to chase the dog around with a phone-controlled robot so it was well worth it!
 
 ### Contains
 ##### Arduino 
