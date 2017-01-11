@@ -3,7 +3,9 @@ I'm just starting out learning Unity, and getting some electronics experience wi
 
 ### Contains
 ##### Arduino 
-The arduino sketch that is being used for this controller.
+The arduino sketch that is being used for this controller. Not much has been changed from the tutorial code, except for adding a stop UDP command with the 'x' character.
+
+WiFi+Driving Arduino Tutorial: https://learning.thimble.io/modules/wi-fi-bot-part-2/the-wifi-module
 
 ##### Unity
 The Unity project with text inputs to specify the IP and Port of the robot, and inputs to control the values that are sent by the directional pad buttons + the "STOP ROBOT" button. 
@@ -20,3 +22,6 @@ I'm having fun driving it around, but it would be really neat to do something li
 ### Credit
 UDP class for Unity which helped kick start the packet sending code.
 https://forum.unity3d.com/threads/simple-udp-implementation-send-read-via-mono-c.15900/
+
+Thimble for wrapping it all up in a neat little kit.
+https://thimble.io/
