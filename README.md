@@ -14,7 +14,7 @@ NOTE: Due to the inconsistency I was having with UDP, it's set to continue firin
 I'm having fun driving it around, but it would be really neat to do something like:
 - Change the D-pad into a GUI joystick to give a more natural "tap-and-drag" motion.
 - Perform motor power calculations based on the 2D vector from center to touch of GUI joystick so that it turns when dragged at an angle
-- With a GUI joystick, encode the distance from center and send that in the UDP packets to adjust motor pvoltage.
+- With a GUI joystick, encode the distance from center and send that in the UDP packets to adjust motor voltage.
 - Incorporate distance sensor for extra safety
 
 ### Credit
